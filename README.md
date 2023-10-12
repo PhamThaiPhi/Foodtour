@@ -1,1 +1,2 @@
 # Foodtour
+Food tour là một trải nghiệm ẩm thực thú vị và đa dạng, trong đó người tham gia có cơ hội thưởng thức các món ăn và đồ uống đặc trưng của một vùng, thành phố, hoặc quốc gia cụ thể. Food tour thường được tổ chức bởi các hướng dẫn viên hoặc nhóm chuyên nghiệp có kiến thức về nền ẩm thực địa phương.Với niềm đam mê ẩm thực, tôi muốn được đi khắp mọi nơi thưởng thức mọi món ăn ngon trên thế giới và hơn hết là được trải nghiệm nét văn hóa của nó
