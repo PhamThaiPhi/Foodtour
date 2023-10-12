@@ -6,9 +6,7 @@ Hà Nội nghìn năm văn hiến với món Phở được xem là biểu tư�
 <img src="https://toplist.vn/images/800px/pho-nho-511042.jpg"> 
 
 Không thua kém Hà Nội, món Bánh Mì của Thành Phố Hồ Chí Minh cũng nổi tiếng khắp trên cả thế giới thậm chỉ lọt top 10 món ăn đường phố ngon nhất trên thế giới.Đây là một món ăn đường phố rất phổ biến ở Sài Gòn và trên khắp cả nước. Bánh mì Sài Gòn kết hợp giữa ảnh hưởng Pháp và sự sáng tạo địa phương, tạo ra một loại bánh mì độc đáo và ngon miệng.
-<img src="https://toplist.vn/images/800px/banh-mi-554118.jpg">    <img src="https://toplist.vn/images/800px/banh-mi-554118.jpg">
-
-
+<img src="https://toplist.vn/images/800px/banh-mi-554118.jpg">    
 
 
 
